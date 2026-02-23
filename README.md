@@ -31,3 +31,5 @@ The model's performance was evaluated using an 80/20 temporal split.
 * **Pandas / NumPy / SciPy** (Sparse Matrices)
 * **Scikit-Learn** (`TruncatedSVD`, `normalize`)
 * **Cloudpickle** (Serialization)
+
+## Note: As the dataset size is huge (860 MB), it could not be uploaded in this repo. If you want the dataset, you can connect with me for the same.
